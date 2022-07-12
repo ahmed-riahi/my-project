@@ -1,0 +1,7 @@
+#bg{
+display: flex;
+    background:url('image/wp5941990-simple-laptop-wallpapers.jpg') no-repeat center  ;
+    opacity: 0.9;
+    height: 100vh;
+    color: white;
+    min-height: 500px;}
